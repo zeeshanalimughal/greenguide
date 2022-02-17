@@ -6,7 +6,7 @@
         class="text-light green-initiative-hero community-growth-hero d-flex justify-content-center align-items-center" data-animate="fadeIn" data-animate-delay="500">
         <div class="container d-flex justify-content-center align-items-center flex-column">
             <div class="page-title" data-animate="fadeInUp" data-animate-delay="1300">
-                <h2 style="text-align: center; color: white;">Pathway for community growth</h2>
+                <h2 class="community-growth-hero-title" style="text-align: center; color: white;">Pathway for community growth</h2>
                 <p class="font-size-lg">Trees planted with Forest Nation.</p>
             </div>
 

@@ -94,16 +94,16 @@
 
 
 <div class="our__team__section py-5 team4">
-    <div class="container">
-      <div class="row justify-content-center mb-4">
-        <div class="col-md-7 text-center">
-          <h3 class="mb-3" data-animate="fadeInDown" data-animate-delay="600">Experienced & Professional Team</h3>
-          <h6 class="subtitle desc" data-animate="fadeInUp" data-animate-delay="700">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
-        </div>
+    <div class="row justify-content-center mb-4">
+      <div class="col-md-7 text-center">
+        <h3 class="mb-3" data-animate="fadeInDown" data-animate-delay="600">Experienced & Professional Team</h3>
+        <h6 class="subtitle desc" data-animate="fadeInUp" data-animate-delay="700">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
       </div>
-      <div class="row">
+    </div>
+    <div class="container" style="widht:100% !important;">
+      <div  class="row">
         <!-- column  -->
-        <div class="col-lg-3 mb-4" data-animate="fadeInUp" data-animate-delay="900">
+        <div class="col-lg-3 col-md-6 col-sm-12 mb-4" data-animate="fadeInUp" data-animate-delay="900">
           <!-- Row -->
           <div class="row">
             <div class="col-md-12 d-flex justify-content-center" >
@@ -127,7 +127,7 @@
         </div>
         <!-- column  -->
         <!-- column  -->
-        <div class="col-lg-3 mb-4" data-animate="fadeInUp" data-animate-delay="1100">
+        <div class="col-lg-3 col-md-6 col-sm-12 mb-4" data-animate="fadeInUp" data-animate-delay="1100">
           <!-- Row -->
           <div class="row">
             <div class="col-md-12 d-flex justify-content-center" >
@@ -151,7 +151,7 @@
         </div>
         <!-- column  -->
         <!-- column  -->
-        <div class="col-lg-3 mb-4" data-animate="fadeInUp" data-animate-delay="1300">
+        <div class="col-lg-3 col-md-6 col-sm-12 mb-4" data-animate="fadeInUp" data-animate-delay="1300">
           <!-- Row -->
           <div class="row">
             <div class="col-md-12 d-flex justify-content-center" >
@@ -175,7 +175,7 @@
         </div>
         <!-- column  -->
         <!-- column  -->
-        <div class="col-lg-3 mb-4" data-animate="fadeInUp" data-animate-delay="1500">
+        <div class="col-lg-3 col-md-6 col-sm-12 mb-4" data-animate="fadeInUp" data-animate-delay="1500">
           <!-- Row -->
           <div class="row">
             <div class="col-md-12 d-flex justify-content-center" >

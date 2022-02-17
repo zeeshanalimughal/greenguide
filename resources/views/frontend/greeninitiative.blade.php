@@ -11,7 +11,7 @@
 <section id="page-title" class="text-light green-initiative-hero d-flex justify-content-center align-items-center" data-bg-parallax="{{ url('front/img/plainting-tree.jpg')}}" data-animate="fadeIn" data-animate-delay="500">
     <div class="container d-flex justify-content-center align-items-center flex-column">
         <div class="page-title" data-animate="fadeInUp" data-animate-delay="1300">
-            <h2 style="text-align: center; color: white;">We’re Doing Our Part To Care For The Earth</h2>
+            <h2 class="green-initiative-hero-title"style="text-align: center; color: white;">We’re Doing Our Part To Care For The Earth</h2>
             <p class="font-size-lg">Trees planted with Forest Nation.</p>
         </div>
         <div class="row mt-5 w-100 d-flex justify-content-center">

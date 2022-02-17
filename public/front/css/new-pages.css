@@ -777,7 +777,7 @@ align-items        : center;
 
   .contact__us__hero {
     width     : 100% !important;
-    min-height: 50vh !important;
+    min-height: 65vh !important;
     background-image:url('../img/contact-us-hero.jpg') !important;
         background-repeat  : no-repeat !important;
         background-size    : cover !important;
@@ -821,6 +821,7 @@ align-items        : center;
 }
 
  .team4 {
+     width: 100% !important;
     font-family: "Montserrat", sans-serif;
       color: #fff;
     font-weight: 300;
@@ -885,10 +886,26 @@ align-items        : center;
 
 
 
-
-
-
 @media (max-width:780px) {
+    .our__team__section{
+
+            padding:0 0  !important;
+    }
+ .community-growth-hero  .community-growth-hero-title{
+        font-size: 3rem !important;
+    }
+ .why__choose__greenguide  .title{
+        font-size: 2rem !important;
+    }
+    .business__directory__hero {
+        min-height         : 70vh;
+    }
+    .advert__design__hero {
+        min-height: 60vh !important;
+    }
+    .advertise__hero {
+        min-height: 60vh;
+    }
     .why__choose__greenguide .title{
         font-size: 2.5rem;
     }
@@ -898,8 +915,12 @@ align-items        : center;
         left: 0;
         width: 280px;
     }
-    .contact__us__hero .title{
-        font-size  : 4.5rem;
+    .team4 h3 {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+    .contact__us__hero .title,#contact__title{
+        font-size  : 3rem;
      }
     .contact__us__hero {
             padding:0 1rem;
